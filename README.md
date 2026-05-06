@@ -6,6 +6,13 @@ Mastering Tableau Dashboards: Layout Containers Explained | #Tableau Course #137
 
 [![Watch Here](https://img.youtube.com/vi/mAYvayW77Vw/hqdefault.jpg)](https://youtu.be/mAYvayW77Vw)
 
+## Design
+
+5 Tips to Make Any Tableau Dashboard Beautiful
+
+[![Watch Here](https://img.youtube.com/vi/ZqANmFvIDN4/hqdefault.jpg)](https://youtu.be/ZqANmFvIDN4)
+
+
 ## Buttons und Aktionen
 
 Tableau Double Click Fix (Buttons & Actions Work on First Click)
