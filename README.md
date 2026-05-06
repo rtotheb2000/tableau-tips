@@ -26,3 +26,11 @@ Carousel in Tableau for Flipping Through Metrics
 Build Custom Parameter Selection Buttons in Tableau
 
 [![Watch Here](https://img.youtube.com/vi/NtfBUtfdF3c/hqdefault.jpg)](https://youtu.be/NtfBUtfdF3c)
+
+## Responsive Design
+
+Tableau Mobile Friendly Dashboard Guide
+
+[![Watch Here](https://img.youtube.com/vi/stmzp37JXfU/hqdefault.jpg)](https://youtu.be/stmzp37JXfU)
+
+
