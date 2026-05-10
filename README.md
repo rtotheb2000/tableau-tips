@@ -33,4 +33,7 @@ Tableau Mobile Friendly Dashboard Guide
 
 [![Watch Here](https://img.youtube.com/vi/stmzp37JXfU/hqdefault.jpg)](https://youtu.be/stmzp37JXfU)
 
+Click to Expand Details in Tableau | Dynamic Zone Visibility with ➕ Icons
+
+[![Watch Here](https://img.youtube.com/vi/ZqfmUBug33o/hqdefault.jpg)](https://youtu.be/ZqfmUBug33o)
 
