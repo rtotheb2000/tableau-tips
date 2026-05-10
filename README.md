@@ -6,7 +6,7 @@ Mastering Tableau Dashboards: Layout Containers Explained | #Tableau Course #137
 
 [![Watch Here](https://img.youtube.com/vi/mAYvayW77Vw/hqdefault.jpg)](https://youtu.be/mAYvayW77Vw)
 
-## Design
+## Overall Design
 
 5 Tips to Make Any Tableau Dashboard Beautiful
 
