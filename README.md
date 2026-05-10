@@ -12,6 +12,17 @@ Mastering Tableau Dashboards: Layout Containers Explained | #Tableau Course #137
 
 [![Watch Here](https://img.youtube.com/vi/ZqANmFvIDN4/hqdefault.jpg)](https://youtu.be/ZqANmFvIDN4)
 
+## Responsive Design
+
+Tableau Mobile Friendly Dashboard Guide
+
+[![Watch Here](https://img.youtube.com/vi/stmzp37JXfU/hqdefault.jpg)](https://youtu.be/stmzp37JXfU)
+
+## Interactive Design
+
+Click to Expand Details in Tableau | Dynamic Zone Visibility with ➕ Icons
+
+[![Watch Here](https://img.youtube.com/vi/ZqfmUBug33o/hqdefault.jpg)](https://youtu.be/ZqfmUBug33o)
 
 ## Buttons und Aktionen
 
@@ -26,16 +37,3 @@ Carousel in Tableau for Flipping Through Metrics
 Build Custom Parameter Selection Buttons in Tableau
 
 [![Watch Here](https://img.youtube.com/vi/NtfBUtfdF3c/hqdefault.jpg)](https://youtu.be/NtfBUtfdF3c)
-
-## Responsive Design
-
-Tableau Mobile Friendly Dashboard Guide
-
-[![Watch Here](https://img.youtube.com/vi/stmzp37JXfU/hqdefault.jpg)](https://youtu.be/stmzp37JXfU)
-
-## Interactive Design
-
-Click to Expand Details in Tableau | Dynamic Zone Visibility with ➕ Icons
-
-[![Watch Here](https://img.youtube.com/vi/ZqfmUBug33o/hqdefault.jpg)](https://youtu.be/ZqfmUBug33o)
-
