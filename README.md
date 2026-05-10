@@ -38,6 +38,8 @@ Show Object Hidden by Dynamic Zone Visibility in Tableau (Quick Tip)
 
 [![Watch Here](https://img.youtube.com/vi/ow_f6FSTGM0/hqdefault.jpg)](https://youtu.be/ow_f6FSTGM0)
 
+[The Information Lab Blog: Dinge verschwinden lassen: Dynamic Zone Visibility in Tableau](https://www.theinformationlab.de/alle/blog/dinge-verschwinden-lassen-dynamic-zone-visibility-in-tableau/)
+
 ## Responsive Design
 
 Tableau Mobile Friendly Dashboard Guide
