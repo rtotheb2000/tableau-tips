@@ -18,6 +18,10 @@ Click to Expand Details in Tableau | Dynamic Zone Visibility with ➕ Icons
 
 [![Watch Here](https://img.youtube.com/vi/ZqfmUBug33o/hqdefault.jpg)](https://youtu.be/ZqfmUBug33o)
 
+Using Toggles to Switch Metrics with Conditional Coloring in Tableau
+
+[![Watch Here](https://img.youtube.com/vi/KkiIS8ZWJeY/hqdefault.jpg)](https://youtu.be/KkiIS8ZWJeY)
+
 ## Buttons und Aktionen
 
 Tableau Double Click Fix (Buttons & Actions Work on First Click)
